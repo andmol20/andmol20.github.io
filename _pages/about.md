@@ -16,10 +16,7 @@ I'm interested in enumerative and algebraic combinatorics, especially if it has 
 
 During my undergrad I worked with geometric lattices and matroids. Afterwards in my masters I worked with the matroids over the tropical-signed hyperfield and its relation with tropical linear spaces. Currently I would like to learn as much algebraic geometry and commutative algebra as I can, so I can apply it to combinatorics problems.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+
 
 
 

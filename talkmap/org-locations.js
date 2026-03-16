@@ -5,9 +5,9 @@ var addressPoints = [
     -75.788322
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Oriented-Valuated Matroids and Tropical Real Linear Spaces<br />Combinatorial Synergies in Geometry and Number Theory, IMPA; Rio de Janeiro, Brazil",
+    -22.9110137,
+    -43.2093727
   ],
   [
     "Atom Orderings Classes in Geometric Lattices<br />Universidad del Cauca; Popay\u00e1n, Cauca, Colombia",

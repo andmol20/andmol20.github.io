@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Matroides valuadas orientadas y espacios lineales tropicales reales<br />UT Pereira, Congreso colombiano de matem\u00e1ticas; Pereira,Risaralda, Colombia",
+    4.7854606,
+    -75.788322
   ],
   [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",

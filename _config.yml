@@ -26,11 +26,11 @@ author:
   avatar           : "IMG_4155.jpg"
   name             : "Andrés Molina Giraldo"
   # pronouns         : # example: "he/his"  
-  bio              : "I'm a first year Ph.D student in mathematics at University of Kansas. I graduated with a Master's in Mathematics from Universidad the los Andes in 2025 and beefore that I was a Math major at Pontificia Universidad Javeriana."
+  bio              : "I'm a first year Ph.D student in mathematics at University of Kansas. My research is in Algebraic Combinatorics"
   location         : "Lawrence, Kansas"
   employer         : "University of Kansas"
   uri              : # URL
-  email            : "a.molinag@ku.edu" 
+  email            : a.molinag at ku.edu 
 
   # Academic websites
   academia         : # URL

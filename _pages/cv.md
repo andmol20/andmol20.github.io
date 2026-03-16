@@ -11,35 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematics, University of Kansas, 2030 (expected)
+* M.S. in Mathematics, Universidad de Los Andes, 2025
+* B.S. in Mathematics, Pontificia Universidad Javeriana, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2025-: Graduate Teaching Assistant
+  * University of Kansas
+  * Duties includes: Instructor and grader
+  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2023- Spring 2023: Graduate Teaching Assistant
+  * Universidad de los Andes
+  * Duties included: Grading and leading discussion sessions
+  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2021-2022: Undergrad assistant
+  * Pontificia Universidad Javeriana
+  * Duties included: Solving doubts in Math helproom.
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fluent in Spanish (native speaker), English and Italian.
+* Programming experience in SageMath, Macaulay2, Singular
 
 Publications
 ======

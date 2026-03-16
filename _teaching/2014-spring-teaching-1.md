@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Pontificia Universidad Javeriana, Departamento de Sistemas"
+date: 2022-08-01
+location: "Bogotá, Colombia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+During this semester I work with two sections as grader and assistant in Data Structures class. We worked on several Data structures in C++, such as linked lists, queues, trees. We also worked in the implementation of graphs structures and algorithms. 

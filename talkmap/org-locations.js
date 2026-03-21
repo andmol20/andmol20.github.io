@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Matroides valuadas orientadas y espacios lineales tropicales reales<br />UT Pereira, Congreso colombiano de matem\u00e1ticas; Pereira,Risaralda, Colombia",
+    "Matroides valuadas orientadas y espacios lineales tropicales reales<br />UT Pereira, XXIV Congreso Colombiano de Matem\u00e1ticas; Pereira,Risaralda, Colombia",
     4.7854606,
     -75.788322
   ],

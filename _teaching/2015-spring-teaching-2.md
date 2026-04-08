@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience, 2025-Spring"
+title: "GTA at Uniandes, 2025-Spring"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1

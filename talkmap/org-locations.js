@@ -1,13 +1,13 @@
 var addressPoints = [
   [
-    "Matroides valuadas orientadas y espacios lineales tropicales reales<br />UT Pereira, XXIV Congreso Colombiano de Matem\u00e1ticas; Pereira,Risaralda, Colombia",
-    4.7854606,
-    -75.788322
-  ],
-  [
     "Oriented-Valuated Matroids and Tropical Real Linear Spaces<br />Combinatorial Synergies in Geometry and Number Theory, IMPA; Rio de Janeiro, Brazil",
     -22.9110137,
     -43.2093727
+  ],
+  [
+    "Matroides valuadas orientadas y espacios lineales tropicales reales<br />UT Pereira, XXIV Congreso Colombiano de Matem\u00e1ticas; Pereira,Risaralda, Colombia",
+    4.7854606,
+    -75.788322
   ],
   [
     "Atom Orderings Classes in Geometric Lattices<br />Universidad del Cauca; Popay\u00e1n, Cauca, Colombia",

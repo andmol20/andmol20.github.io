@@ -12,7 +12,7 @@ redirect_from:
 
 Research Interests
 ======
-I'm interested in enumerative and algebraic combinatorics, especially if it has intersections with geometry, both algebraic and discrete. More specifically I enjoy to learn Matroid Theory, Tropical Geometry, Combinatorial Commutative algebra.
+I'm interested in enumerative and algebraic combinatorics, especially if it has intersections with geometry, both algebraic and discrete. I have worked recently in Matroid Theory and Tropical Geometry. I'm also eager to learn more about Combinatorial Commutative Algebra and Topological Combinatorics at some point.
 
 During my undergrad I worked with geometric lattices and matroids. Afterwards in my masters I worked with the matroids over the tropical-signed hyperfield and its relation with tropical linear spaces. Currently I would like to learn as much algebraic geometry and commutative algebra as I can, so I can apply it to combinatorics problems.
 

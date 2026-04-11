@@ -10,7 +10,7 @@ var addressPoints = [
     -75.788322
   ],
   [
-    "Atom Orderings Classes in Geometric Lattices<br />Universidad del Cauca; Popay\u00e1n, Cauca, Colombia",
+    "Atom Orderings Classes in Geometric Lattices<br />VIII Encuentro Colombiano de Combinatoria, Universidad del Cauca; Popay\u00e1n, Cauca, Colombia",
     2.4422295,
     -76.6072368
   ],

@@ -1,10 +1,10 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "$Atom Ordering Classes on Whitney Duals of Geometric Lattices$"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
+date: 2023-05-20
 venue: 'GitHub Journal of Bugs'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'

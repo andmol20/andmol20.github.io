@@ -18,8 +18,10 @@ During my undergrad, I worked with geometric lattices and matroids with Rafael G
 
 Hobbies
 ======
+-Tango: I'm part of the KU Tango Club since Fall 2026.
 
 -Languages: I love to learn new languages. Iḿ trying to learn german right now, although I'm not very good at it. French and portuguese also interests me (I can at least read most things in the second one). One of these days I'll try to start learning latin once more, and I hope someday I'll be able to read at least some ancient greek as well.
+
 -Cooking: Since coming to the U.S, I've tried to learn to cook some colombian dishes. I think I've suceeded in making good arepas (thanks to my abuela's recipe), however my almojábanas still need some improvement. I'll try to make pandebonos or pandeyuca at some point.
 
 

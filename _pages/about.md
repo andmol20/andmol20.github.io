@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 
- I'm a first-year Ph.D. student of Mathematics at KU since Fall 2025. I graduated with a major in Math from Pontificia Universidad Javeriana in 2023 and from Universidad de Los Andes in 2025, With a Masters in Mathematics. I was born in Bogotá, Colombia.
+ I'm a second-year Ph.D. student in Mathematics at KU since Fall 2025. I graduated with a major in Math from Pontificia Universidad Javeriana in 2023 and from Universidad de Los Andes in 2025, with a Masters in Mathematics. I was born in Bogotá, Colombia.
 
 Research Interests
 ======
 I'm interested in enumerative and algebraic combinatorics, especially if it has intersections with geometry, both algebraic and discrete. I have worked recently in Matroid Theory and Tropical Geometry. I'm also eager to learn more about Combinatorial Commutative Algebra and Topological Combinatorics at some point.
 
-During my undergrad I worked with geometric lattices and matroids. Afterwards in my masters I worked with the matroids over the tropical-signed hyperfield and its relation with tropical linear spaces. Currently I would like to learn as much algebraic geometry and commutative algebra as I can, so I can apply it to combinatorics problems.
+During my undergrad, I worked with geometric lattices and matroids with Rafael González D'León. Afterwards in my masters I worked with the matroids over the tropical-signed hyperfield and its relation with tropical linear spaces with Johannes Rau. Currently I would like to learn as much algebraic geometry and commutative algebra as I can, so I can apply it to combinatorics problems.
 
 Hobbies
 ======

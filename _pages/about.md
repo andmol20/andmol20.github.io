@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
- I'm a second-year Ph.D. student in Mathematics at KU since Fall 2025. I graduated with a major in Math from Pontificia Universidad Javeriana in 2023 and from Universidad de Los Andes in 2025, with a Masters in Mathematics. I was born in Bogotá, Colombia.
+ I'm a second-year Ph.D. student in Mathematics at KU since 2025. I graduated with a major in Math from Pontificia Universidad Javeriana in 2023 and from Universidad de Los Andes in 2025, with a Masters in Mathematics. I was born in Bogotá, Colombia.
 
 Research Interests
 ======
